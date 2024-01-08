@@ -12,6 +12,7 @@ The housing supports installation using screws with metal inserts. The PCB is pu
 ### The AUX port fits into the housing!
 https://www.aliexpress.com/item/1005005570841743.html?spm=a2g0o.order_list.order_list_main.108.32f41802yTNCmB
 ![Aux Port](/Docs/aux_port.png)
+Tou can use the original SlimeX housing for the AUX tracker :)
 
 # Original readme:
 
