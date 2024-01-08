@@ -3,6 +3,16 @@ https://github.com/Lupinixx/SlimeVR-Hyperion-BMI160-PCB
 I will add more photos and assembly instructions soon.
 The housing supports installation using screws with metal inserts. The PCB is push-fit.
 
+![SlimeX_Hyperion](/Docs/SlimeX_Hyperion_0.jpg)
+![SlimeX_Hyperion](/Docs/SlimeX_Hyperion_1.jpg)
+![SlimeX_Hyperion](/Docs/SlimeX_Hyperion_2.jpg)
+![SlimeX_Hyperion](/Docs/SlimeX_Hyperion_3.jpg)
+![SlimeX_Hyperion](/Docs/SlimeX_Hyperion_4.jpg)
+
+### The AUX port fits into the housing!
+https://www.aliexpress.com/item/1005005570841743.html?spm=a2g0o.order_list.order_list_main.108.32f41802yTNCmB
+
+
 # Original readme:
 
 ### !! This case was designed for specific parts, check [Guides](/README.md#-guides) for more info. !!
