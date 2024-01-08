@@ -2,7 +2,7 @@
 https://github.com/Lupinixx/SlimeVR-Hyperion-BMI160-PCB
 I will add more photos and assembly instructions soon.
 The housing supports installation using screws with metal inserts. The PCB is push-fit.
-
+![SlimeX_Hyperion](/Docs/SlimeX_Hyperion_5.jpg)
 ![SlimeX_Hyperion](/Docs/SlimeX_Hyperion_0.jpg)
 ![SlimeX_Hyperion](/Docs/SlimeX_Hyperion_1.jpg)
 ![SlimeX_Hyperion](/Docs/SlimeX_Hyperion_2.jpg)
