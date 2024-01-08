@@ -1,3 +1,10 @@
+# This is a fork of SlimeX that support Hyperion-PCB!
+https://github.com/Lupinixx/SlimeVR-Hyperion-BMI160-PCB
+I will add more photos and assembly instructions soon.
+The housing supports installation using screws with metal inserts. The PCB is push-fit.
+
+# Original readme:
+
 ### !! This case was designed for specific parts, check [Guides](/README.md#-guides) for more info. !!
  
  It *may* fit other parts, but those setups are neither tested nor supported.
